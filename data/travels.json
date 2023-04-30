@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "img_url": "./image/Rectangle_1.png",
+      "caption": "Cox's Bazer",
+      "details": "Experience the awe-inspiring beauty and rich history of Machu Picchu, one of the most iconic landmarks in the world. Trek through the Andes, witness stunning views of the Sacred Valley, and immerse yourself in the vibrant culture of Peru."
+    },
+    {
+      "id": 2,
+      "img_url": "./image/Rectangle_28.png",
+      "caption": "Siligori",
+      "details": "Escape to the lush tropical paradise of Bali and discover its hidden gems. Explore ancient temples, hike through verdant rice paddies, indulge in world-class cuisine, and unwind on some of the world's most beautiful beaches."
+    },
+    {
+      "id": 3,
+      "img_url": "./image/Sajek.png",
+      "caption": "Sajek",
+      "details": "Embark on an adventure to the land of fire and ice, where you'll witness breathtaking landscapes unlike anywhere else on earth. From the Northern Lights to geothermal hot springs, Iceland is a wonderland waiting to be explored."
+    },
+    {
+      "id": 4,
+      "img_url": "./image/Sreemongol.png",
+      "caption": "Sreemongol",
+      "details": "Embark on a once-in-a-lifetime safari adventure in the Serengeti, where you'll witness some of the most incredible wildlife on the planet. From majestic lions to towering giraffes, the Serengeti is a true safari paradise."
+    },
+    {
+      "id": 5,
+      "img_url": "./image/sundorbon.png",
+      "caption": "Sundorbon ",
+      "details": "Escape to a luxurious resort in Bali and indulge in pure relaxation and rejuvenation. Enjoy world-class spa treatments, gourmet cuisine, and stunning ocean views, all while basking in the warm tropical sun."
+    }
+  ]
+  
